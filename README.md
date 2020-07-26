@@ -1,0 +1,2 @@
+# DistributedSystemBasedOnOgre
+基于OGRE的分布式渲染系统
